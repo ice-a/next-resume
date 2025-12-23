@@ -41,5 +41,8 @@
     "commitizen": {
       "path": "./node_modules/git-cz"
     }
+  },
+  "engines": {
+    "node": "16.x"  // 或 18.x，根据项目依赖兼容版本选择
   }
 }
